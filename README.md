@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apoorva-Bhat23
+- 👋 Hi, I’m Apoorva Y R
 - 📚 I am Currently a 3rd-year B.Tech student at Manipal Institute of Technology
 - 🎨 Passionate about Front-End Development & UI/UX Design
 - 💞️ Learning and growing in web technologies, design systems, and interactive interfaces
