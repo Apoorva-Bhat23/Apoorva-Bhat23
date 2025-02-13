@@ -2,6 +2,7 @@
 - 📚 Currently a 3rd-year B.Tech student at Manipal Institute of Technology
 - 🎨 Passionate about Front-End Development & UI/UX Design
 - 💞️ Learning and growing in web technologies, design systems, and interactive interfaces
+- 💡 Always exploring innovative ways to create seamless and engaging user experiences
 - 💻 Open to collaborating on exciting front-end projects!
 - ⚡ Fun fact: I can spend hours perfecting a pixel… and then decide to redesign everything from scratch!
 - 📫 Let's connect: www.linkedin.com/in/apoorva-y-r/
